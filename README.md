@@ -1,6 +1,6 @@
 <div align="center">
   <img src=".github/logo.svg">
-  <p><strong>Connect</strong> students with teachers<p>
+  <p><strong>Connect</strong> students then teachers<p>
 
 ![](https://img.shields.io/badge/NLW-2-blueviolet?style=flat-square)
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/HigorSnt/proffy?style=flat-square">
