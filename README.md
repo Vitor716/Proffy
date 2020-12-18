@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img alt="project" width="650px" src=".github/image.svg/>
+  <img alt="project" width="650px" src=".github/image.png/>
 <p>
 
 ## 💡 Project 
