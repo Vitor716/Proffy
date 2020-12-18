@@ -49,5 +49,3 @@ This application was created in one week domining front end, back and mobile usi
 - [React](https://reactjs.org/)
 - [React Native](http://reactnative.dev/)
 - [Node.js](https://nodejs.org/en/docs/)
-
- Projeto desenvolvido durante a NLW#2 da Rocketseat
